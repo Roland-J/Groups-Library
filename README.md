@@ -60,4 +60,3 @@ Please visit my [UI Mockup (Groups Lib Demos)](https://github.com/Roland-J/UI-Mo
 10. Auto-Hide: This library also supports auto-hide. This means that while zoning - both between zones and
      during login/logout - any groups that have auto-hide enabled will disappear when zoning out and re
 	 appear when zoning in.
-BTW: Feel free to re-use my Button002-NeutralLight2.png asset.
